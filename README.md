@@ -19,12 +19,12 @@ Book Names, Author Names, Price,Stocks.
 The objective of the proposed system is that any modification can be made by just the touch of a button
 instead of going through the directory and keep on turning pages.
 This program consists of six options as follows :
-1. TO ADD
-2. TO SHOW
-3. TO SEARCH
-4. TO MODIFY
-5. TO DELETE
-6. TO EXIT PROGRAM
+1. To add
+2. To show
+3. To search
+4. To modify
+5. To delete
+6. To exit program
 
 
 
