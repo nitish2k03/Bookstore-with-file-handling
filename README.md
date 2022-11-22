@@ -1,5 +1,8 @@
 # Bookstore-with-file-handling
 Bookstore in C++ language with file handling
+Here is the source code for the project BookStore Management System.I've also used file handling in it.
+It is very simple and easy to understand and run.
+
 
 Language used : C++
 
